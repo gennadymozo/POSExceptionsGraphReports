@@ -10,6 +10,8 @@ POS (Point of Sale) Graphical Reports of Exceptions by Dates/Users/Exceptions.
 
 2.	run "/SQL/SQL_POSExceptionsGraphReports_v_2.0.4.8_.sql";
 
+	https://github.com/gennadymozo/POSExceptionsGraphReports/blob/master/SQL/SQL_POSExceptionsGraphReports_v_2.0.4.8_.sql
+
 	for create functions and stored procedures;
 
 3.	copy/paste folder POSExceptionsGraphReports into "C:\inetpub\wwwroot".
