@@ -1,6 +1,6 @@
 # POSExceptionsGraphReports
 
-POS (Point of Sale) Graphical Reports of Exceptions by Dates/Users/Exceptions.
+POS (Point of Sale) Graphical Reports of Exceptions by Dates/Cashiers/Exceptions.
 	
 	unzip "POSExceptionsGraphReports.zip" file;
 
